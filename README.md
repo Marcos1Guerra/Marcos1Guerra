@@ -55,11 +55,3 @@ I created the <strong><a href="https://github.com/Inatel-Labs">Inatel-Labs</a></
     <img alt="TypeScript" title="TypeScript" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=typescript" />
 </p>
 
-<h3>Statistics GitHub ⚡</h3>
-
-<p>
-  <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=Marcos1Guerra&show_icons=true&theme=midnight-purple" alt="GitHub Statistics" />
-  <img align="left" alt="Top Languages" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos1Guerra&hide_progress=true&theme=midnight-purple" alt="Top Languages" />
-</p>
-
-</br></br></br></br></br></br></br></br>
