@@ -7,17 +7,6 @@ Hello! I'm Marcos Guerra, 22 years old, from Santa Rita do Sapucaí, MG.
 I'm currently pursuing a degree in Software Engineering at INATEL, where I'm deeply engaged in technology, innovation, and programming.
 </p>
 
-<h4>🌱 Learning and Sharing</h4> 
-<p>
-I'm always looking for opportunities to learn new concepts, develop practical skills, and collaborate with the tech community.  
-I strive to share knowledge and contribute to meaningful projects, promoting growth for both myself and others.
-</p>
-
-<h4>🎯 My Goal</h4> 
-<p>
-My goal is to combine the technical and creative aspects of software engineering, delivering meaningful solutions while continuously evolving as a developer.
-</p>
-
 <h4>🚀 My GitHub Organization</h4>
 <p>
 I created the <strong><a href="https://github.com/Inatel-Labs">Inatel-Labs</a></strong> organization to centralize and manage my academic projects, exercises, and practical assignments developed throughout my Software Engineering journey.
