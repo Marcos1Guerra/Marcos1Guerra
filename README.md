@@ -2,10 +2,7 @@
 
 *Software Engineering Student*
 
-<p>
-Hello! I'm Marcos Guerra, 22 years old, from Santa Rita do Sapucaí, MG.  
-I'm currently pursuing a degree in Software Engineering at INATEL, where I'm deeply engaged in technology, innovation, and programming.
-</p>
+<p> Hello! I'm Marcos Guerra, 23 years old, from Santa Rita do Sapucaí, MG. I hold a degree in Software Engineering from INATEL, where I developed strong experience in technology, innovation, and programming. </p>
 
 <h4>🚀 My GitHub Organization</h4>
 <p>
