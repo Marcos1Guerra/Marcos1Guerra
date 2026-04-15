@@ -41,7 +41,7 @@ I created the <strong><a href="https://github.com/Inatel-Labs">Inatel-Labs</a></
     <img alt="MySQL" title="MySQL" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=mysql" />
     <img alt="PostgreSQL" title="PostgreSQL" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=postgres" />
     <img alt="Docker" title="Docker" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=docker" />
+    <img alt="Cypress" title="Cypress" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cypress" />
     <img alt="Selenium" title="Selenium" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=selenium" />
     <img alt="Postman" title="Postman" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=postman" />
-    <img alt="Cypress" title="Cypress" width="48" height="48" style="padding: 0 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypress/cypress-original.svg" />
 </p>
