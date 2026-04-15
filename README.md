@@ -2,7 +2,7 @@
 
 *Software Engineer* 
 
-<p> Hello! I'm Marcos Guerra Soares , 23 years old, from Santa Rita do Sapucaí, MG. I am a Software Engineer graduated from INATEL , seeking roles as a Full Stack Developer. I have experience in developing responsive interfaces, optimizing web performance, and ensuring software quality through TDD. </p>
+<p> Hello! I'm Marcos Guerra Soares , 23 years old, from Santa Rita do Sapucaí, MG. I am a Software Engineer graduated from INATEL , seeking roles as a Full Stack Developer or QA Analyst. I have experience in developing responsive interfaces, optimizing web performance, and ensuring software quality through TDD. </p>
 
 <h4>🚀 My GitHub Organization</h4>
 <p>
@@ -30,6 +30,7 @@ I created the <strong><a href="https://github.com/Inatel-Labs">Inatel-Labs</a></
     <img alt="Git" title="Git" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=git" />
     <img alt="JavaScript" title="JavaScript" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=javascript" />
     <img alt="TypeScript" title="TypeScript" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=typescript" />
+    <img alt="PHP" title="PHP" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=php" />
     <img alt="Java" title="Java" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=java" />
     <img alt="Spring" title="Spring" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=spring" />
     <img alt="Python" title="Python" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=python" />
@@ -40,4 +41,7 @@ I created the <strong><a href="https://github.com/Inatel-Labs">Inatel-Labs</a></
     <img alt="MySQL" title="MySQL" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=mysql" />
     <img alt="PostgreSQL" title="PostgreSQL" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=postgres" />
     <img alt="Docker" title="Docker" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=docker" />
+    <img alt="Cypress" title="Cypress" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cypress" />
+    <img alt="Selenium" title="Selenium" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=selenium" />
+    <img alt="Postman" title="Postman" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=postman" />
 </p>
